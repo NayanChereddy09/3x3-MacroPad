@@ -41,8 +41,8 @@ This project helped me understand how hardware, firmware, and mechanical design.
 | PCB JLC | 1 | 3.5|https://cart.jlcpcb.com/quote?stencilLayer=2&stencilWidth=100&stencilLength=100&stencilCounts=5&plateType=1&spm=Jlcpcb.Homepage.1010|
 |3d Printed Case| 1 | 6.46| https://jlc3dp.com/3d-printing-quote|
 
-Total With tax ~ 89.62
-Total witout tax ~79.31
+Total With tax ~ 89.62 CAD
+Total witout tax ~79.31 CAD
 
 # Hardware Overview
 
