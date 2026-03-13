@@ -66,6 +66,9 @@ CAD Models - 3D enclosure design files and STEP export
 
 BOM - Parts list with purchase links
 
+# Resources
+https://blueprint.hackclub.com/hackpad
+
 # License
 
 This project is open-source and available for modification and improvement.
