@@ -20,32 +20,22 @@ This project helped me understand how hardware, firmware, and mechanical design.
 
 # PCB Design
 
-<img width="300" height="400" alt="Screenshot 2026-03-12 at 10 25 44 PM" src="https://github.com/user-attachments/assets/5f120504-0d37-4636-86a9-e11a3a4b2bb3" />
-
-<img width="376" height="622" alt="Screenshot 2026-03-12 at 10 26 11 PM" src="https://github.com/user-attachments/assets/46b77a89-c51d-41f1-a737-ed367e2ab41d" />
-
-<img width="374" height="619" alt="Screenshot 2026-03-12 at 10 26 34 PM" src="https://github.com/user-attachments/assets/1afa15e1-5be9-40e8-b141-3ff8f8445f16" />
-
 <img width="738" height="365" alt="Screenshot 2026-03-12 at 10 27 10 PM" src="https://github.com/user-attachments/assets/30cf9970-f5de-410f-bb1a-986f83f6f244" />
 
 # Bill of Materials (BOM)
-## Bill of Materials (BOM)
 
-| Component | Quantity | Price (CAD) | Link |
-|---|---|---|---|
-| XIAO RP2040 | 1 | $14.76 | https://www.seeedstudio.com |
-| Switches | 9 | $1.59 | https://www.aliexpress.com/item/1005006814061416.html |
-| Keycaps | 9 | $6.67 | https://www.aliexpress.com/item/1005008542056314.html |
-| Diodes | 9 | $1.26 | https://www.digikey.ca/en/products/detail/onsemi/1N4148/458603 |
-| 0.91" 128x32 OLED Display | 1 | $3.18 | https://www.aliexpress.com/item/1005008640132638.html |
-| M3x16mm Screws | 4 | $7.96 | https://www.canadiantire.ca/en/pdp/hillman-philips-pan-head-machine-screw-m3-50-x-16-mm-0612155p.html |
-| M3x5x4mm Heatset Inserts | 4 | $5.39 | https://www.aliexpress.com/item/1005008285787978.html |
-| PCB (JLCPCB) | 1 | $3.50 | https://cart.jlcpcb.com |
-| 3D Printed Case | 1 | $0.00 | Used own 3D Printer |
+| Component | Quantity |
+|-----------|----------|
+| XIAO RP2040 | 1 |
+| Switches | 9 |
+| Keycaps | 9 |
+| Diodes | 9 |
+| 0.91" 128x32 OLED Display | 1 |
+| M3x16mm Screws | 4 |
+| M3x5x4mm Heatset Inserts | 4 |
+| PCB (JLCPCB) | 1 |
+| 3D Printed Case | 1 |
 
-**Subtotal:** $44.31 CAD  
-**Ontario HST (13%):** $5.76 CAD  
-**Total Cost:** $50.07 CAD
 
 # Hardware Overview
 
