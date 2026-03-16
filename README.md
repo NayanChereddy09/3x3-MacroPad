@@ -19,6 +19,11 @@ This project helped me understand how hardware, firmware, and mechanical design.
 <img width="666" height="707" alt="Screenshot 2026-03-12 at 10 22 12 PM" src="https://github.com/user-attachments/assets/4ef151a7-32a5-4429-b269-28b95c35784b" />
 
 # PCB Design
+<img width="375" height="622" alt="Screenshot 2026-03-16 at 6 08 25 PM" src="https://github.com/user-attachments/assets/90fbf990-5229-43e9-b7fe-01ea40425d56" />
+
+<img width="378" height="615" alt="Screenshot 2026-03-16 at 6 07 51 PM" src="https://github.com/user-attachments/assets/98b46507-b562-420a-a5a6-fff200dd19a5" />
+
+<img width="461" height="764" alt="Screenshot 2026-03-16 at 6 07 35 PM" src="https://github.com/user-attachments/assets/1f5b73fa-a9ef-4682-9a9c-2cb75b3554fc" />
 
 <img width="738" height="365" alt="Screenshot 2026-03-12 at 10 27 10 PM" src="https://github.com/user-attachments/assets/30cf9970-f5de-410f-bb1a-986f83f6f244" />
 
