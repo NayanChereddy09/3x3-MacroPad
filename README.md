@@ -1,6 +1,6 @@
 # 3x3-MacroPad
 The MicroPad is a custom 3x3 macro pad that was designed and built from scratch. It uses Seeed XIAO RP2040 microcontroller and runs QMK firmware to allow full customizability keys. This program allows the user to customized the diffrent keys pressed.
-This project includes a custom PCB design, CAD case design, and firmware. The case was designed to hold the PCB securely while keeping the design minimal and clean without using a faceplate.
+This project includes a custom PCB design, CAD case design, and firmware. The case was designed to hold the PCB securely while keeping the design minimal and clean.
 # Why I Made This Project 
 I built this project to learn more about hardware design and programming. Specifically, I wanted to practice:
 
@@ -17,6 +17,7 @@ This project helped me understand how hardware, firmware, and mechanical design.
 # Full CAD Assembly
 
 <img width="666" height="707" alt="Screenshot 2026-03-12 at 10 22 12 PM" src="https://github.com/user-attachments/assets/4ef151a7-32a5-4429-b269-28b95c35784b" />
+<img width="503" height="806" alt="Screenshot 2026-03-17 at 12 34 18 AM" src="https://github.com/user-attachments/assets/356f8825-4e84-44c1-b94a-e06d7ace4947" />
 
 # PCB Design
 <img width="375" height="622" alt="Screenshot 2026-03-16 at 6 08 25 PM" src="https://github.com/user-attachments/assets/90fbf990-5229-43e9-b7fe-01ea40425d56" />
